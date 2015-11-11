@@ -4,10 +4,10 @@
            fetch="https://github.com" />
 
   <default revision="refs/heads/master"
-           remote="origin"
+           remote="portal"
            sync-j="4" />
 
-  <project name="crazywill/portal" remote="portal" path="portal"/>
+  <project name="crazywill/portal" remote="portal" path="portal22"/>
 
 </manifest>
 
