@@ -7,7 +7,7 @@
            remote="portal"
            sync-j="4" />
 
-  <project name="crazywill/portal" remote="portal" path="portal22"/>
+  <project name="crazywill/portal-account" remote="portal" path="portal22"/>
 
 </manifest>
 
