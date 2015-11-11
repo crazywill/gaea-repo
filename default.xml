@@ -3,7 +3,7 @@
   <remote  name="portal"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/origin/master"
+  <default revision="refs/heads/master"
            remote="portal"
            sync-j="4" />
 
